@@ -16,5 +16,5 @@
   - Checks if the passenger's name is empty.
   - Checks if the distance is less than or equal to zero.
   - Checks if the number of passengers is not a positive whole number or has a decimal in it.
-- **Process:** Calculates the total fare after validating the inputs.
+- **Process:** Calculates the total fare after validating inputs.
 - **Output:** Displays the total fare.
