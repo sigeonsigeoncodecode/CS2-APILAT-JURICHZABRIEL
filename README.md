@@ -2,14 +2,14 @@
 
 #Fare calculator
 
-## Version 1 - Original Code
+## Version 1 - Original Code (travel_fare_calculator_v1)
 
 - **Input:** Accepts the passenger's name, travel distance, and number of passengers.
 - **Process:** Calculates the total fare.
 - **Output:** Displays the total fare.
 - **Validation:** Does not include input validation.
 
-## Version 2 - Code with Input Validation
+## Version 2 - Code with Input Validation (travel_fare_calculatooooooor)
 
 - **Input:** Accepts the passenger's name, travel distance, and number of passengers.
 - **Input Validation:**
