@@ -1,16 +1,20 @@
 # CS2-APILAT-JURICHZABRIEL
 
-Fare calculator
+#Fare calculator
 
-**##Version 1 - Original code
--Input: accepts passenger amount, name, and distance
--Process: calculates and displays the total price for the fare
--Output: displays the fare
--It does not include input validation
+## Version 1 - Original Code
 
-##Version 2 - New code with input validation
--Input: accepts passenger amount, name, and distance
--Input Validation: Checks if the passenger's name is left as blank, distance is a negative number, and the passenger amount does not have a decimal or is negative.
--Process: calculates and displays the total price for the fare
--Output: displays the fare
--Includes input validation.**
+- **Input:** Accepts the passenger's name, travel distance, and number of passengers.
+- **Process:** Calculates the total fare.
+- **Output:** Displays the total fare.
+- **Validation:** Does not include input validation.
+
+## Version 2 - Code with Input Validation
+
+- **Input:** Accepts the passenger's name, travel distance, and number of passengers.
+- **Input Validation:**
+  - Checks if the passenger's name is empty.
+  - Checks if the distance is less than or equal to zero.
+  - Checks if the number of passengers is not a positive whole number.
+- **Process:** Calculates the total fare after validating the inputs.
+- **Output:** Displays the total fare.
