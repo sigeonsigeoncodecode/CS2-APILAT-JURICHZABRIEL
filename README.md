@@ -2,13 +2,15 @@
 
 Fare calculator
 
-Version 1(travel_fare_calculator_vs__ipynb.py)
-input accepts a name, distance, and passengers
-process calculates and displays the total travel fare
+**##Version 1 - Original code without input validation
+-Input: accepts passenger amount, name, and distance
+-Process: calculates and displays the total price for the fare
+-Output: displays the fare
+-It does not include input validation
 
-version 2
-Input: Accepts a customer's name, previous meter reading, and current meter reading.
-Input Validation: Checks if the customer's name is left empty or not, checks if the previous meter reading is greater than or equal to zero (0), and checks if the current meter reading is greater than or equal to the previous meter reading
-Process: Calculates and displays the electricity consumption and total electricity bill.
-Output: Customer's name, electricity consumption and total electricity bill.
-Includes input validation.
+##Version 2 - Revised code with input validation
+-Input: accepts passenger amount, name, and distance
+-Input Validation: Checks if the passenger's name is left as blank, distance is a negative number, and the passenger amount does not have a decimal or is negative.
+-Process: calculates and displays the total price for the fare
+-Output: displays the fare
+-Includes input validation.**
